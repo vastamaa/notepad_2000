@@ -1,0 +1,13 @@
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\bin\Debug\notepad_2000.exe.config
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\bin\Debug\notepad_2000.exe
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\bin\Debug\notepad_2000.pdb
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.csprojAssemblyReference.cache
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.Form1.resources
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.Properties.Resources.resources
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.csproj.GenerateResource.cache
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.csproj.CoreCompileInputs.cache
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.exe
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.pdb
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\bin\Debug\aa-DJ\notepad_2000.resources.dll
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\notepad_2000.Form1.aa-DJ.resources
+C:\Users\vszto\source\repos\notepad_2000\notepad_2000\obj\Debug\aa-DJ\notepad_2000.resources.dll
